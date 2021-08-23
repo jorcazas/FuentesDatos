@@ -1,4 +1,4 @@
-##Tarea 1
+## Tarea 1
 Para esta tarea, se descargó el archivo first 5k.csv.zip de la url https://www.dropbox.com/s/zlb4zr3xwcwkyn7/first_5k.csv.zip?dl=0 y se descomprimió en un archivo llamado tarea1.csv
 
 A continuación, se muestran los ejercicios hechos sobre este archivo, por bloques de código, en el siguiente formato:
@@ -10,7 +10,7 @@ Línea de código que responde a la pregunta
 
 Salida obtenida de la línea de código
 ~~~
-###Ejercicios
+### Ejercicios
 
 ~~~
 1. ¿Cuántas líneas tiene el archivo? (el resultado contempla también la primera línea del archivo, es decir, la línea que contiene los nombres de las columnas; para saber sólo la cantidad de registros del archivo, al resultado se le resta 1)
