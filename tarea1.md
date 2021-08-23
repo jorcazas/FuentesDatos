@@ -23,9 +23,9 @@ wc -l tarea1.csv
 ~~~
 2. ¿Cuántos registros tienen la palabra soriana? (Toma en cuenta que la mayoría de los registros están en mayúsculas, ¡pero no todos!). Aquí asumo que buscamos sólo los registros con la palabra 'soriana' y omitimos todos los que tengan palabras que tienen el patrón 'soriana' dentro.
 
-grep -ciE '\"\s?soriana\s?\"|\ssoriana\"?\s|\"\s?soriana\s' tarea1.csv
+grep -ciE 'soriana' tarea1.csv
 
-965694
+968297
 ~~~
 
 
